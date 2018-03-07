@@ -7,10 +7,10 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 
 # 数据库连接信息
-db_host = 'rm-bp1582z2vc8ca63txo.mysql.rds.aliyuncs.com'
-db_user = 'shengdun'
-db_pawd = 'SdPQ_!)@$-1024'
-db_name = 'shengdun'
+db_host = '***********'
+db_user = '***********'
+db_pawd = '***********'
+db_name = '***********'
 db_port = 3306
 
 # 创建对象的基类:
